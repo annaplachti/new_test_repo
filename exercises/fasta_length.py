@@ -4,6 +4,7 @@
 Python script to count the number of aminoacids per sequence in a FASTA file
 Call it like so:
     python fasta_length.py sequences.fasta
+    blabla
 """
 
 import sys
